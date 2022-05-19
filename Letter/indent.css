@@ -1,0 +1,51 @@
+body{
+    background-color: azure;
+}
+
+.container{
+    width: 100%;
+    max-width: 80%;
+    margin: auto;
+    background-color: aliceblue;
+    padding: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 2rem;
+    min-height: 87vh;
+    font-weight: 200;
+}
+
+.address {
+    text-align: left;
+    line-height: 1em;
+    margin-left: 55em;
+}
+
+.recipient{
+    line-height: 0.5rem;
+}
+
+.salute {
+    font-style: italic;
+}
+
+.heading{
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.body{
+    text-align: justify;
+    line-height: 2.5rem;
+}
+
+.conclusion{
+    text-align: center;
+    line-height: 50px;
+}
+
+.sign{
+    background-color: black;
+    height: 0.09px;
+}
